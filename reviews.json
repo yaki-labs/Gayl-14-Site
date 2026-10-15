@@ -1,0 +1,52 @@
+[
+  {
+    "merchantName": "NUITO",
+    "merchantLink": "https://nuito.in",
+    "rating": 5,
+    "reviewTitle": "Brilliant and super prompt support",
+    "reviewText": "These folks are brilliant and super prompt, had a complicated reward mechanism and these folks helped us in matter of hours and even added an extra feature on the fly and kept us in the loop. Thanks to them we were able to go live on time. Thanks again folks, highly recommend them for rewards and gift bundles and tiering if you are thinking of integrating their app to your shopify store.",
+    "location": "India",
+    "appName": "Buy X Get Y Free Gifts & BOGOs",
+    "date": "September 2026"
+  },
+  {
+    "merchantName": "The Winfield Collection",
+    "merchantLink": "https://www.thewinfieldcollection.com",
+    "rating": 5,
+    "reviewTitle": "Does exactly what we were looking for",
+    "reviewText": "Nice app that does exactly what we were looking for. To add a free printed catalog to any shipped order saving our customers $3 for additional postage when purchasing alone. Again, I love the app, it is perfect for what I needed.",
+    "location": "United States",
+    "appName": "Buy X Get Y Free Gifts & BOGOs",
+    "date": "October 2026"
+  },
+  {
+    "merchantName": "Laced Shoe Inc",
+    "merchantLink": "https://thelacedshoe.com/",
+    "rating": 5,
+    "reviewTitle": "Best free promotion app on Shopify",
+    "reviewText": "I am super impressed with not just this app, the team behind it. They are incredibly responsive and always find a solution to my goal. If all the apps on shopfiy had this level of service- owning a store would be alot easier! They developed a part of the app special for me that I was not able to find any other app to do for me. I hope this app stays free!",
+    "location": "United States",
+    "appName": "Buy X Get Y Free Gifts & BOGOs",
+    "date": "June 1, 2026"
+  },
+  {
+    "merchantName": "STKM CO.",
+    "merchantLink": "https://stkmco.com/",
+    "rating": 5,
+    "reviewTitle": "AOV boosted within 48 hours",
+    "reviewText": "Excelente servicio al cliente, me ayudaron en todo momento",
+    "location": "Mexico",
+    "appName": "Buy X Get Y Free Gifts & BOGOs",
+    "date": "June 5, 2026"
+  },
+  {
+    "merchantName": "Tek4life",
+    "merchantLink": "https://www.tek4life.pt/",
+    "rating": 5,
+    "reviewTitle": "Seamless cart progress and rewards",
+    "reviewText": "One of the best we've found so far for what we need. And the team has been very helpful.",
+    "location": "Portugal",
+    "appName": "Free Gift Helper",
+    "date": "September 2026"
+  }
+]
